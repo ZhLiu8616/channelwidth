@@ -5,6 +5,8 @@ This method can be finished using the ArcGIS 10.2 software and Google Earth Imag
 M. He, Z. Li, B. Tong, and J. Tan, “Construction and application of dembased channel width model in mountainous medium-small watersheds,” Water Power, vol. 45, no. 4, pp. 22–27, 2019.
 
 To compare the accuracy, we used these equations below:
+This sentence uses $ delimiters to show math inline: $\sqrt{3x-1}+(1+x)^2$
+
 \begin{equation}
 	\label{eq.4}
 	R^{2}=1-\frac{\sum_{i}\left(\hat{y}_{i}-y_{i}\right)^{2}}{\sum_{i}\left(\bar{y}_{i}-y_{i}\right)^{2}}
