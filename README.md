@@ -5,8 +5,8 @@ This method can be finished using the ArcGIS 10.2 software and Google Earth Imag
 M. He, Z. Li, B. Tong, and J. Tan, “Construction and application of dembased channel width model in mountainous medium-small watersheds,” Water Power, vol. 45, no. 4, pp. 22–27, 2019.
 
 To compare the accuracy, we used these equations below:
-$R^{2}=1-\frac{\sum_{i}\left(\hat{y}_{i}-y_{i}\right)^{2}}{\sum_{i}\left(\bar{y}_{i}-y_{i}\right)^{2}}$
-$\sqrt{3x-1}+(1+x)^2$
+$$R^{2}=1-\frac{\sum_{i}\left(\hat{y}_{i}-y_{i}\right)^{2}}{\sum_{i}\left(\bar{y}_{i}-y_{i}\right)^{2}}$$
+
 
 $ MAE=\frac{1}{m} \sum_{i=1}^{m}\left|\hat{y}_{i}-y_{i}\right|	$
 $ RMSE=\sqrt{\frac{1}{m} \sum_{i=1}^{m}\left(y_{i}-\hat{y}_{i}\right)^{2}} $
