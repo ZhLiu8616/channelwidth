@@ -11,4 +11,4 @@ $R^2=1-\frac{\sum\limits_{i=1}^{m}(\hat{y_i}-y_{i})^2}{\sum\limits_{i=1}^{m}(\ba
 $MAE=\frac{1}{m} \sum\limits_{i=1}^{m}\left|\hat{y_i}-y_{i}\right|$
 
 $RMSE=\sqrt{\frac{1}{m} \sum\limits_{i=1}^{m}\left(y_{i}-\hat{y_i}\right)^{2}}$
-where y$_{i}$, $\hat{y}$ and $\bar{y}$ are the ground truth, prediction and mean width, respectively.
+where $y_i$, $\hat{y}$ and $\bar{y}$ are the ground truth, prediction and mean width, respectively.
